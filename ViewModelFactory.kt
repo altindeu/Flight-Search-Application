@@ -2,11 +2,7 @@
 
 *    Author: Umut Altindere
 
-*    Email: altindeu@oregonstate.edu
-
-*    University: Oregon State University
-
-*    CS_492_400
+*    Email: altindereumut@gmail.com
 
 */
 
